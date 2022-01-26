@@ -1,0 +1,22 @@
+# LG
+ad.lgappstv.com
+ibis.lgappstv.com
+jp.rdx2.lgtvsdp.com
+jp.lgtvsdp.com
+jp.info.lgsmartad.com
+lgad.cjpowercast.com.edgesuite.net
+#ngfts.lge.com # blocks thumbnails from loading in the LG Content Store
+smartclip.com
+smartclip.net
+smartshare.lgtvsdp.com
+us.ad.lgsmartad.com
+us.ibs.lgappstv.com
+us.info.lgsmartad.com
+#us.lgtvsdp.com # #117
+us.rdx2.lgtvsdp.com
+yumenetworks.com
+aic-ngfts.lge.com
+
+# Netflix
+ichnaea.netflix.com
+customerevents.netflix.com
