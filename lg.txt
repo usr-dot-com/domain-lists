@@ -1,6 +1,8 @@
 # LG
 ad.lgappstv.com
 aic-ngfts.lge.com
+be.lgtvsdp.com #could cause issues. gotta test
+eic.service.lgtvcommon.com #could cause issues. gotta test
 ibis.lgappstv.com
 jp.info.lgsmartad.com
 jp.lgtvsdp.com
@@ -16,7 +18,7 @@ snu.lge.com
 us.ad.lgsmartad.com
 us.ibs.lgappstv.com
 us.info.lgsmartad.com
-us.lgtvsdp.com #117
+#us.lgtvsdp.com #117
 us.rdx2.lgtvsdp.com
 yumenetworks.com
 
